@@ -606,3 +606,40 @@ footer {
         padding: 30px 10px;
     }
 }
+
+@media (max-width: 392px) {
+    header {
+        margin: 10px 0;
+    }
+
+    .hero-detail-container h1 {
+        font-size: 25px;
+        margin: 10px 0;
+    }
+
+    .hero-detail-container p {
+        margin: 10px 0;
+        font-size: 20px;
+    }
+
+    .email-input-container {
+        margin-top: 30px;
+    }
+
+    #kelas {
+        margin: 30px auto;
+    }
+
+    .see-more {
+        margin-top: 10px;
+    }
+
+    #testimoni {
+        margin: 30px auto;
+    }
+
+    footer {
+        font-size: 20px;
+        padding: 30px 10px;
+    }
+}
