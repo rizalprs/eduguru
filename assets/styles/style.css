@@ -638,6 +638,18 @@ footer {
         margin: 30px auto;
     }
 
+    #tentang-saya {
+        margin-bottom: 0;
+    }
+
+    .about-container h1 {
+        font-size: 25px;
+    }
+
+    .about-container p {
+        font-size: 20px;
+    }
+
     footer {
         font-size: 20px;
         padding: 30px 10px;
